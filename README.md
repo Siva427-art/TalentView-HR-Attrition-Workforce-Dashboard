@@ -100,6 +100,9 @@ This project is created for learning and demonstrating data visualization skills
 Feel free to connect for feedback or collaboration.
 
 
+<img width="1408" height="792" alt="image" src="https://github.com/user-attachments/assets/416951eb-60a9-495d-a2be-33f177d9b168" />
+
+
 ## 📂 Download Dashboard File
 
 [Click here to download PBIX file](https://drive.google.com/file/d/1y-kDomT6ggwes7qWiUX05mJDI0mlh2pl/view?usp=sharing)
