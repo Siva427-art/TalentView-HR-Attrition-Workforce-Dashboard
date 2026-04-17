@@ -1,4 +1,4 @@
-# 📊 Workforce Analytics Dashboard (Power BI)
+# 📊 Workforce Analytics Dashboard (Power BI) Drive Link in Last Line
 
 ## 📌 Overview
 
@@ -98,3 +98,8 @@ This project is created for learning and demonstrating data visualization skills
 ## 📬 Contact
 
 Feel free to connect for feedback or collaboration.
+
+
+## 📂 Download Dashboard File
+
+[Click here to download PBIX file](https://drive.google.com/file/d/1y-kDomT6ggwes7qWiUX05mJDI0mlh2pl/view?usp=sharing)
