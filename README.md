@@ -106,6 +106,10 @@ Feel free to connect for feedback or collaboration.
 <img width="1404" height="787" alt="image" src="https://github.com/user-attachments/assets/d9648451-cc98-4e19-970a-1c226cfc0126" />
 
 
+<img width="1411" height="797" alt="image" src="https://github.com/user-attachments/assets/2a388c2c-e1d8-44f2-b926-48e27cc8e67a" />
+
+
+
 
 ## 📂 Download Dashboard File
 
